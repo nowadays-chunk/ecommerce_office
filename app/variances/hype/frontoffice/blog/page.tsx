@@ -45,7 +45,7 @@ export default function HypeBlog() {
                         <button className="bg-black text-white px-16 py-6 text-4xl font-black uppercase tracking-tighter hover:bg-white hover:text-black border-8 border-black transition-all">SYNC_IDENTITY</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }

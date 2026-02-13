@@ -46,7 +46,7 @@ export default function WildBlog() {
                         <button className="px-12 py-6 bg-[#2d2a22] text-[#f4f1ea] text-xl font-light uppercase tracking-tighter rounded-2xl hover:bg-[#8b7e66] transition-all transform shadow-2xl">RELEASE_SIGNAL</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }

@@ -49,7 +49,7 @@ export default function TechBlog() {
                         <button className="px-12 py-6 bg-gradient-to-r from-[#00f2ff] to-[#0062ff] text-black text-xl font-black uppercase tracking-tighter hover:scale-[1.05] transition-all transform shadow-[0_0_50px_rgba(0,242,255,0.4)]">SYNC_IDENTITY</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }

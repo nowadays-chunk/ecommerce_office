@@ -72,7 +72,7 @@ export default function GlintContact() {
                         REVEAL_INTENT
                     </button>
                 </form>
-       main>
+            </main>
         </div>
     );
 }

@@ -43,7 +43,7 @@ export default function GrubBlog() {
                         <button className="px-12 py-6 bg-[#22c55e] text-white text-xl font-black uppercase tracking-widest rounded-full hover:scale-105 transition-all shadow-xl">SYNC_FIELD</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }

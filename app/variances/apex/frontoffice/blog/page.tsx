@@ -48,7 +48,7 @@ export default function ApexBlog() {
                         <button className="bg-gradient-to-r from-[#ff3e3e] to-[#7c3aed] text-white px-16 py-6 text-4xl font-black uppercase tracking-tighter hover:scale-[1.05] transition-all transform hover:skew-x-12 shadow-[0_0_50px_rgba(255,62,62,0.4)]">SYNC_IDENTITY</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }

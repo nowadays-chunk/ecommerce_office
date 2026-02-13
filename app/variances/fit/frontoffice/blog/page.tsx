@@ -47,7 +47,7 @@ export default function FitBlog() {
                         <button className="bg-white text-black px-16 py-6 text-4xl font-black uppercase tracking-tighter hover:bg-[#ff0000] hover:text-white transition-all transform hover:skew-x-6">SYNC_IDENTITY</button>
                     </div>
                 </section>
-       main>
+            </main>
         </div>
     );
 }
